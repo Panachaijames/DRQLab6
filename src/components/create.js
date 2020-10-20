@@ -1,12 +1,11 @@
 import React from 'react';
 
-export class Footer extends React.Component
-{
-    
+export class Create extends React.Component{
+
     render(){
         return(
             <div>
-                <h1>This is the Read component.</h1>
+            <h3>Hello from create Component</h3>
             </div>
         );
     }
